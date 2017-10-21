@@ -1,0 +1,25 @@
+body{
+    background: black;
+}
+
+#header{
+    height: 70px;
+    background: coral;
+    color: #fff;
+    text-align: center;
+}
+
+#form{
+    margin: 20px 0;
+    height: 200px;
+    background: coral;
+    color: #fff;
+    padding: 20px;
+}
+
+#articles{
+    height: 200px;
+    background: coral;
+    color: #fff;
+    padding: 20px;
+}
